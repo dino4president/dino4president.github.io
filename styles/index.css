@@ -19,7 +19,7 @@ body {
 }
 a:focus, a:hover {
     font-style: italic;
-    color: grey
+    color: rgb(163, 72, 72)
 }
 h1{
     font-size: 175%;
@@ -33,6 +33,7 @@ h2{
 }
 img {
     float: left;
+    margin-left: 1.5em;
 }
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
