@@ -46,14 +46,14 @@ main h3{
     font-size: 105%;
     margin: 1.5em, 2em, 1.5em;
     border: 5px dashed crimson;
-    border-radius: 20%;
+    border-radius: 20px;
     box-shadow: 3px 3px 4px 4px black;
     padding: 1em;
 }
 main nav{
     margin: 1.5em 2em 1.5em;
     border: 5px dashed orangered;
-    border-radius: 20pz;
+    border-radius: 20px;
     box-shadow: 3px 3px 4px 4px crimson;
     padding: .5em;
 
