@@ -17,9 +17,6 @@ body {
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
-
-
-
 }
 a:focus, a:hover {
     font-style: italic;
