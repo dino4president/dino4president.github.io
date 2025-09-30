@@ -73,6 +73,10 @@ footer{
     clear: both;
     border-top: 2px solid black;
 }
+footer p.copyright{
+    text-align: center;
+    font-size: 80%;
+}
 p.fixed{
     width: auto;
 }
