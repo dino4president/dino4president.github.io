@@ -68,6 +68,7 @@ aside{
     width: 20%;
     float: right;
     background-color: bisque;
+    padding: 15px;
 }
 header{
     clear: both;
@@ -83,4 +84,6 @@ footer p.copyright{
 }
 p.fixed{
     width: auto;
+    position: fixed;
+
 }
