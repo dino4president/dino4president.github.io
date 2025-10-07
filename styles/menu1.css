@@ -13,3 +13,12 @@ font-weight: bold;
 border-right: 2px solid white; }
 #nav_menu ul li a.lastitem { border-right: none; }
 #nav_menu ul li a.current { color: wheat; }
+article {
+    clear: both;
+}
+aside ol{
+    list-style: upper-roman;
+}
+aside ol{
+    list-style: square;
+}
