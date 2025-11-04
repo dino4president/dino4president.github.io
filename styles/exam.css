@@ -1,0 +1,18 @@
+Body {
+    width: 95%;
+    margin: 15px auto;
+    background-image: right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+
+}
+
+article{
+    width: 75%;
+}
+
+aside{
+    width: 20%;
+    background-attachment: fixed;
+    list-style: ;
+}
