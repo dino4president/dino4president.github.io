@@ -17,6 +17,7 @@ Body {
     border-radius: 25px ;
     box-shadow: 5px 5px 0 0;
     background-image: url("../images/KAPSI.jpeg");
+    background-position: right;
 
 }
 
