@@ -27,7 +27,8 @@ list-style-type: none;
 margin: 0;
 padding: 0;
 }
-.menu > li {margin: 0 1rem;
+.menu > li {
+margin: 0 1rem;
 overflow: hidden;
 }
 .menu-button-container {
@@ -79,13 +80,13 @@ color: white;
 .menu a:hover, a.current {
 text-decoration: underline;
 }
-article{
+article {
 padding: 0 1em;
 }
 article h2 {
-line-height: 1.25 em;
+font-size: 1.25em;
 }
-article p{
+article p {
 font-size: 1em;
 }
 article img {
@@ -94,12 +95,12 @@ display: block;
 width: 100%;
 max-width: 760px;
 }
-footer{
-border-top: 2 px solid #f46b45;
+footer {
+border-top: 2px solid red;
 text-align: center;
-font-size: .8 em;
+font-size: .8em;
 }
-@media only screen and (max-width: 70px) {
+@media only screen and (max-width: 700px) {
 .menu-button-container {
 display: flex;
 }
